@@ -5,43 +5,44 @@
  - A full-stack task management application built with **Python Flask**, **SQLite**, **SQLAlchemy**, **Bootstrap 5**, and   **Jinja2** templating.  
  - Allows users to **create, read, update, delete** tasks, mark them as completed, set due dates, and sort by priority.
 
-     1. ### Features
-      - **Full CRUD operations** for tasks
-      - **Task completion** with checkbox and visual strikethrough
-      - **Due date** support with calendar picker
-      - **Overdue task highlighting** (red warning)
-      - **Dynamic sorting** by:
-      - Added date (newest first – default)
-      - Due date (soonest first)
-      - Due date (latest first)
-      - Responsive and modern UI using **Bootstrap 5**
-      - Persistent data storage with **SQLite** database
+   1. ### Key Features
+     - Create, read, update, delete (CRUD) tasks
+     - Mark tasks as completed (checkbox + strikethrough visual feedback)
+     - Set due dates with calendar picker
+     - Highlight overdue tasks in red
+     - Sort tasks by:
+       - Added date (newest first – default)
+       - Due date (soonest first)
+       - Due date (latest first)
+     - Search tasks by keyword (case-insensitive partial match)
+     - Responsive and modern UI using Bootstrap 5
+     - Persistent storage with SQLite database
 
-    2. ### Tech Stack
+   2. ### Tech Stack
      - **Backend**: Python, Flask, SQLAlchemy
      - **Database**: SQLite
-     - **Frontend**: HTML5, CSS3, Bootstrap 5, Jinja2 templating
-     - **Other**: datetime handling, form validation, dynamic routing
+     - **Frontend**: HTML5, CSS3 (Bootstrap 5), Jinja2 templating
+     - **Other**: datetime handling, form validation, dynamic queries (.order_by, .filter)
 
-    3. ### Project Screenshots
+   3. ### Project Screenshots
       (Add 3–5 screenshots here – recommended:  
        i). Empty task list  
       ii). Tasks with due dates & completed items  
      iii). Sorting dropdown in action
       iv). Edit page with date picker & checkbox)
 
-    4. ### How to Run Locally
+   4. ### How to Run Locally
        
      i). Clone the repository:
          ```bash
-      git clone https://github.com/yashraj022381/flask-task-manager.git
-        cd flask-task-manager
+           git clone https://github.com/yashraj022381/flask-task-manager.git
+           cd flask-task-manager
    
-     ii). Create & activate virtual environment:Bashpython -m venv venv
-          venv\Scripts\activate   # Windows
-          source venv/bin/activate   # Mac/Linux
+    ii). Create & activate virtual environment:Bashpython -m venv venv
+           venv\Scripts\activate   # Windows
+           source venv/bin/activate   # Mac/Linux
 
-    iii). Install dependencies:
+   iii). Install dependencies:
           Bash
           pip install flask flask-sqlalchemy
 
@@ -52,7 +53,9 @@
      v). Open in browser:
          http://127.0.0.1:5000/
 
-    5. Folder Structure
+  5. Folder Structure
+
+     
       textflask-task-manager/
       ├── app.py                # Main Flask application
       ├── tasks.db              # SQLite database (auto-generated)
@@ -60,3 +63,23 @@
       │   ├── index.html        # Main task list page
       │   └── update.html       # Edit task page
       └── README.md
+
+
+
+
+
+      What I Learned / Key Skills Demonstrated
+
+      - Full-stack development with Flask & SQLAlchemy
+      - CRUD operations, form handling, routing
+      - Database schema updates & migration patterns
+      - Dynamic queries: filtering (.filter), ordering (.order_by), null handling
+      - Responsive UI with Bootstrap
+      - Debugging common Flask/Jinja/SQLite issues (routing, templates, unbound variables)
+        
+     
+     Future Improvements (Planned)
+
+      - User authentication & multiple user support
+      - Task categories/priority levels
+      - Deployment to Render.com or Railway.app (live demo)
