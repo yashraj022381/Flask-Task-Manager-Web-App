@@ -36,6 +36,7 @@
    
       iv). Edit page with date picker & checkbox):
            ![Image](https://github.com/user-attachments/assets/b77f1857-a6c8-4b8e-ab22-4eed50ecb04e)
+           ![Image](https://github.com/user-attachments/assets/5c3b2011-ebfc-4ca5-aafd-acf1bf154639)
 
       v). Sort dropdown:
 
