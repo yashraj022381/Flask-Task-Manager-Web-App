@@ -1,8 +1,10 @@
 # Task-Manager-Web-App
 
 
- - A full-stack task management application built with **Python Flask**, **SQLite**, **SQLAlchemy**, **Bootstrap 5**, and   **Jinja2** templating.  
- - Allows users to **create, read, update, delete** tasks, mark them as completed, set due dates, and sort by priority.
+ - Built responsive CRUD application with task completion, due dates, overdue alerts, sorting (by added/due date), and           keyword search.
+ - Used Flask, SQLAlchemy, SQLite, Bootstrap 5, Jinja2.
+ - Demonstrated routing, ORM queries (.filter, .order_by), form handling, and UI/UX improvements.
+ - Allows users to **create, read, update, delete** tasks, mark them as completed, set due dates, and sort by priority with      keyword search.
 
    1. ### Key Features
      - Create, read, update, delete (CRUD) tasks
@@ -72,7 +74,7 @@
       ├── app.py                # Main Flask application
       ├── tasks.db              # SQLite database (auto-generated)
       ├── templates/
-      │   ├── index.html        # Main task list page
+      │   ├── index.html        # Main task list + search/sort
       │   └── update.html       # Edit task page
       └── README.md
 
