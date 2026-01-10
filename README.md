@@ -1,6 +1,5 @@
-# Flask-Task-Manager-Web-App
+# Task-Manager-Web-App
 
-# Flask Task Manager Web App
 
  - A full-stack task management application built with **Python Flask**, **SQLite**, **SQLAlchemy**, **Bootstrap 5**, and   **Jinja2** templating.  
  - Allows users to **create, read, update, delete** tasks, mark them as completed, set due dates, and sort by priority.
@@ -26,12 +25,13 @@
 
    3. ### Project Screenshots
       (Add 3–5 screenshots here – recommended:  
-       i). Empty task list  
+       i). Empty task list
+      
       ii). Tasks with due dates & completed items  
      iii). Sorting dropdown in action
       iv). Edit page with date picker & checkbox)
 
-   4. ### How to Run Locally
+   5. ### How to Run Locally
        
      i). Clone the repository:
          ```bash
