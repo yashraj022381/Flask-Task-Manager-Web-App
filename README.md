@@ -23,14 +23,16 @@
      - **Frontend**: HTML5, CSS3 (Bootstrap 5), Jinja2 templating
      - **Other**: datetime handling, form validation, dynamic queries (.order_by, .filter)
 
-   3. ### Project Screenshots
-      (Add 3–5 screenshots here – recommended:  
-       i). Empty task list
+   3. ### Project Screenshots:
+      
+       i). Empty task list:
            ![Image](https://github.com/user-attachments/assets/8001eb20-ab59-4ce6-8873-204c84802db4)
       
-      ii). Tasks with due dates & completed items  
-     iii). Sorting dropdown in action
-      iv). Edit page with date picker & checkbox)
+      ii). Tasks with due dates & completed items:
+           ![Image](https://github.com/user-attachments/assets/02db3058-ef21-402a-967d-5164d660aed1)
+      
+     iii). Sorting dropdown in action:
+      iv). Edit page with date picker & checkbox):
 
    5. ### How to Run Locally
        
