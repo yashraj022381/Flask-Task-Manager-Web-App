@@ -26,6 +26,7 @@
    3. ### Project Screenshots
       (Add 3–5 screenshots here – recommended:  
        i). Empty task list
+           ![Image](https://github.com/user-attachments/assets/8001eb20-ab59-4ce6-8873-204c84802db4)
       
       ii). Tasks with due dates & completed items  
      iii). Sorting dropdown in action
