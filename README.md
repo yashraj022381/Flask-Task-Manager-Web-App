@@ -31,7 +31,9 @@
       ii). Tasks with due dates & completed items:
            ![Image](https://github.com/user-attachments/assets/02db3058-ef21-402a-967d-5164d660aed1)
       
-     iii). Sorting dropdown in action:
+     iii). Search in action:
+           ![Image](https://github.com/user-attachments/assets/354cda99-92bd-40c8-9bc6-21f5f3a6170f)
+   
       iv). Edit page with date picker & checkbox):
 
    5. ### How to Run Locally
