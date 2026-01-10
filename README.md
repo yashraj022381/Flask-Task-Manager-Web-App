@@ -39,6 +39,9 @@
            ![Image](https://github.com/user-attachments/assets/5c3b2011-ebfc-4ca5-aafd-acf1bf154639)
 
       v). Sort dropdown:
+           ![Image](https://github.com/user-attachments/assets/3b80b64d-c46d-4323-8eb4-01f74fd20072)
+           ![Image](https://github.com/user-attachments/assets/4c90991e-2600-4e35-acd5-e2ba0e5134d9)
+           ![Image](https://github.com/user-attachments/assets/eef60ebe-3343-4ba1-85d1-2c641bec81a8)
 
    5. ### How to Run Locally
        
