@@ -35,6 +35,9 @@
            ![Image](https://github.com/user-attachments/assets/354cda99-92bd-40c8-9bc6-21f5f3a6170f)
    
       iv). Edit page with date picker & checkbox):
+           ![Image](https://github.com/user-attachments/assets/b77f1857-a6c8-4b8e-ab22-4eed50ecb04e)
+
+      v). Sort dropdown:
 
    5. ### How to Run Locally
        
